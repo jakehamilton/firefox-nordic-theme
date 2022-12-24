@@ -128,7 +128,6 @@ panel[type="arrow"].panel-no-padding::part(content) {
 	border-radius: 5px !important;	
 	color: var(--nordic-toolbar-color) !important;
 	font: menu !important;
-	width: 100%;
 }
 .subviewbutton,
 .protections-popup-category,
